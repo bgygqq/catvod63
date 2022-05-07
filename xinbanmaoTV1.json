@@ -1,5 +1,5 @@
 {
-    "spider": "https://github.com/catvod/CatVodTVSpider/blob/master/jar/custom_spider.jar?raw=true",
+    "spider": "https://gitea.com/dukanyilunfanhua/sp/raw/branch/master/custom_spider.jar",
     "sites": [
         {
             "ext": "http://inews.gtimg.com/newsapp_ls/0/14743078668/0",
