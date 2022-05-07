@@ -1,5 +1,5 @@
 {
-    "spider": "https://gitea.com/dukanyilunfanhua/sp/raw/branch/master/custom_spider.jar",
+    "spider": "https://raw.githubusercontents.com/aaccer/catvod/main/custom_spider.jar?raw=true",
     "sites": [
         {
             "ext": "http://inews.gtimg.com/newsapp_ls/0/14743078668/0",
