@@ -86,7 +86,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/348dianying.json"
+            "ext": "https://raw.githubusercontents.com/aaccer/catvod/main/xpath/348dianying.json"
         },
         {
             "key": "csp_xpath_dadagui",
@@ -96,7 +96,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/dadagui.json"
+            "ext": "https://raw.githubusercontents.com/aaccer/catvod/main/xpath/dadagui.json"
         },
         {
             "key": "csp_xpath_jubaibai",
@@ -106,7 +106,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/jubaibai.json"
+            "ext": "https://raw.githubusercontents.com/aaccer/catvod/main/xpath/jubaibai.json"
         },
         {
             "key": "csp_xpath_juhuang",
@@ -116,7 +116,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/juhuangtv.json"
+            "ext": "https://raw.githubusercontents.com/aaccer/catvod/main/xpath/juhuangtv.json"
         },
         {
             "key": "csp_xpath_yanaifei",
@@ -126,7 +126,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/yanaifei.json"
+            "ext": "https://raw.githubusercontents.com/aaccer/catvod/main/xpath/yanaifei.json"
         },
         {
             "key": "csp_xpath_tiantian",
@@ -136,7 +136,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/tiantianyingshi.json"
+            "ext": "https://raw.githubusercontents.com/aaccer/catvod/main/xpath/tiantianyingshi.json"
         },
         {
             "key": "csp_xpath_auete",
@@ -146,7 +146,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/xpath/auete.json"
+            "ext": "https://raw.githubusercontents.com/aaccer/catvod/main/xpath/auete.json"
         },
         {
             "key": "csp_xpath_cokemv",
@@ -156,7 +156,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/xpath/cokemv.json"
+            "ext": "https://raw.githubusercontents.com/aaccer/catvod/main/xpath/cokemv.json"
         },
         {
             "key": "Gimy",
@@ -166,7 +166,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/xpath/Gimy.json"
+            "ext": "https://raw.githubusercontents.com/aaccer/catvod/main/xpath/Gimy.json"
         },
         {
             "key": "csp_xpath_libv",
@@ -176,7 +176,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/xpath/libv.json"
+            "ext": "https://raw.githubusercontents.com/aaccer/catvod/main/xpath/libv.json"
         },
         {
             "key": "csp_xpath_lezhutv",
@@ -186,7 +186,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/xpath/lezhutv.json"
+            "ext": "https://raw.githubusercontents.com/aaccer/catvod/main/xpath/lezhutv.json"
         },
         {
             "key": "csp_xpath_saohuotv",
@@ -196,7 +196,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/xpath/saohuotv2.json"
+            "ext": "https://raw.githubusercontents.com/aaccer/catvod/main/xpath/saohuo.json"
         },
         {
             "key": "csp_xpath_zxzj",
@@ -206,7 +206,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/xpath/zxzj.json"
+            "ext": "https://raw.githubusercontents.com/aaccer/catvod/main/xpath/zxzj.json"
         },
         {
             "key": "csp_xpath_555",
@@ -216,7 +216,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gitea.com/dukanyilunfanhua/xpath/raw/branch/master/555.json"
+            "ext": "https://raw.githubusercontents.com/aaccer/catvod/main/xpath/555.json"
         },
         {
             "key": "csp_appysv2_团夕影视",
