@@ -3785,24 +3785,6 @@
             }
         },
         {
-            "name": "扶风解析",
-            "type": 1,
-            "url": "https://www.5s.cm/home/api?type=ys&uid=475934&key=anptvCDHLPTVXY1789&url=",
-            "ext": {
-                "flag": [
-                    "youku",
-                    "优酷",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "qq",
-                    "腾讯",
-                    "ltnb",
-                    "renrenmi"
-                ]
-            }
-        },
-        {
             "name": "飓风影视",
             "type": 1,
             "url": "https://vvip.funsline.cn/api/?key=MPbC1MDs0vP0cKKOoV&url=",
