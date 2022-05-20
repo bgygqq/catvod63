@@ -4009,29 +4009,6 @@
             }
         },
         {
-            "name": "尘烟解析",
-            "type": 1,
-            "url": "http://jifei.mrcy0.com/home/api?type=ys&uid=2276830&key=bcdejlorsuxBDFLTZ9&url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "mgtv",
-                    "芒果",
-                    "pptv",
-                    "PPTV",
-                    "ltnb",
-                    "LT",
-                    "renrenmi"
-                ]
-            }
-        },
-        {
             "name": "江湖云",
             "type": 1,
             "url": "https://jx.ncxmid.cn/sb/?url=",
