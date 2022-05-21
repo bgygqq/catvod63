@@ -16,16 +16,6 @@
             ]
         },
         {
-            "key": "csp_xpath_555",
-            "name": "555电影(XP)",
-            "type": 3,
-            "api": "csp_XPathMacFilter",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://raw.githubusercontents.com/aaccer/catvod/main/xpath/555.json"
-        },
-        {
             "key": "6U资源",
             "name": "6U资源",
             "type": 1,
