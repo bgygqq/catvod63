@@ -3916,16 +3916,6 @@
                 ]
             }
         },
-         {
-            "name": "duoduo",
-            "type": 1,
-            "url": "https://api.jhdyw.vip/dd.php?url=",
-            "ext": {
-                "flag": [
-                    "duoduozy"
-                ]
-            }
-        },
         {
             "name": "左岸",
             "type": 1,
