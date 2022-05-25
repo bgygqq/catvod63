@@ -1,5 +1,6 @@
 {
-    "spider": "https://raw.githubusercontents.com/aaccer/catvod/main/custom_spider.jar?raw=true;md5;77f10dd5ece345547056e55892d670bb",
+    //"spider": "https://raw.githubusercontents.com/aaccer/catvod/main/Spider/custom_spider.jar?raw=true;md5;77f10dd5ece345547056e55892d670bb",
+    "spider": "https://raw.githubusercontents.com/aaccer/catvod/main/Spider/sprider0506.jar?raw=true;md5;4c495b10aa60f08e2e148e9a2eeb2fad",
     "sites": [
         {
             "ext": "http://inews.gtimg.com/newsapp_ls/0/14743078668/0",
