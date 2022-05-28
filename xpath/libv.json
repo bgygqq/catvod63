@@ -20,7 +20,7 @@
   "homeVodMark": "/a/span[@class='pic-text text-right']/text()",
     
 // Category Summary ================================================  
-  "cateUrl": "https://www.libvio.com/show/{cateId}-{area}-------{catePg}---{year}.html",
+  "cateUrl": "https://www.libvio.me/show/{cateId}-{area}-------{catePg}---{year}.html",
   "cateVodNode": "//ul[contains(@class,'clearfix')]/li/div[@class='stui-vodlist__box']",
   "cateVodName": "/a/@title",
   "cateVodId": "/a/@href",
@@ -29,7 +29,7 @@
   "cateVodMark": "/a/span[@class='pic-text text-right']/text()",
     
 // Category Details ================================================    
-  "dtUrl": "https://www.libvio.com/detail/{vid}.html",
+  "dtUrl": "https://www.libvio.me/detail/{vid}.html",
   "dtNode": "//div[(@class='stui-pannel__bd')]",
   "dtName": "//div[(@class='stui-content__thumb')]/a/@title",
   "dtImg": "//div[@class='stui-content__thumb']/a/img/@data-original",    //display in watch recent
@@ -50,11 +50,11 @@
   "dtUrlId": "@href",
   "dtUrlIdR": "/play/(\\S+).html",
   "dtUrlName": "/text()",
-  "playUrl": "https://www.libvio.com/play/{playUrl}.html",
+  "playUrl": "https://www.libvio.me/play/{playUrl}.html",
   "playUa": "",
     
 // Search Results ================================================         
-  "searchUrl": "https://www.libvio.com/search/-------------.html?wd={wd}&submit=",
+  "searchUrl": "https://www.libvio.me/search/-------------.html?wd={wd}&submit=",
   "scVodNode": "//div[@class='stui-vodlist__box']",
   "scVodName": "/a/@title",
   "scVodId": "/a/@href",
