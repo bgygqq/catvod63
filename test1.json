@@ -750,7 +750,7 @@
         },
 { 
 "key": "美剧虫", 
-"name": "美剧虫",
+"name": "美剧虫(v1)",
  "type": 3,
   "api": "csp_AppYs",
    "searchable": 1, 
@@ -758,16 +758,6 @@
    "filterable": 1, 
    "ext": "https://meijuchong.com/api.php/v1.vod"
     },
-        {
-            "key": "美剧虫",
-            "name": "美剧虫(v1)",
-            "type": 3,
-            "api": "csp_AppYs",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://meijuchong.com/api.php/v1.vod"
-        },
         {
             "key": "奈非迷",
             "name": "奈非迷(v2)",
