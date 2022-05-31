@@ -449,16 +449,6 @@
             "ext": "https://ytys3456.com/mogai_api.php/v1.vod"
         },
         {
-            "key": "300看世界",
-            "name": "300看世界(v2)",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://300ys.xyz/api.php/v1.vod"
-        },
-        {
             "key": "4K影院",
             "name": "4K影院(v2)",
             "type": 3,
@@ -627,16 +617,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://tv.0573wl.com/api.php/v1.vod"
-        },
-        {
-            "key": "钟特影视",
-            "name": "钟特影视(v2)",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://app.zteys.com/api.php/v1.vod"
         },
         {
             "key": "段友影视",
