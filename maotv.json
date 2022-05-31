@@ -850,11 +850,10 @@
             "key": "搬运工资源",
             "name": "搬运工资源",
             "type": 1,
-            "api": "https://cj.banyung.xyz:7788",
+            "api": "https://cj.banyung.xyz:7788/360/?ac=list",
             "playUrl": "",
             "searchable": 1,
             "filterable": 1,
-            "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
             "categories": [
 
             ]
@@ -996,18 +995,6 @@
             "name": "旋风云",
             "type": 1,
             "api": "http://appimg.ssxmall.cn/api.php/provide/vod/",
-            "playUrl": "",
-            "searchable": 1,
-            "filterable": 1,
-            "categories": [
-
-            ]
-        },
-        {
-            "key": "雪人影视",
-            "name": "雪人影视",
-            "type": 1,
-            "api": "http://shangjihuoke.com/api.php/provide/vod/from/xueren",
             "playUrl": "",
             "searchable": 1,
             "filterable": 1,
@@ -1328,37 +1315,11 @@
             ]
         },
         {
-            "key": "开放云",
-            "name": "开放云（请使用EXO播放器）",
-            "type": 1,
-            "api": "https://z.iopenyun.com:99/apiopy.php/provide/vod/from/Tcm3u8/",
-            "playUrl": "https://jx.xhswglobal.com/dplayer/?url=",
-            //https://api.iopenyun.com:88/vips/?url=
-            "searchable": 1,
-            "filterable": 1,
-            "categories": [
-
-            ]
-        },
-        {
             "key": "八戒资源",
             "name": "八戒资源",
             "type": 1,
             "api": "https://www.bajiezy.xyz/api.php/provide/vod/",
             "playUrl": "",
-            "searchable": 1,
-            "filterable": 1,
-            "categories": [
-
-            ]
-        },
-        {
-            "key": "奈菲迷",
-            "name": "奈菲迷",
-            "type": 1,
-            "api": "https://app.netflixmi.com/ruifenglb_api.php/provide/vod/",
-            "playUrl": "https://jx.xhswglobal.com/dplayer/?url=",
-            //json:https://vvip.funsline.cn/api/?type=ys&key=fK6x076k18LU34x02N&ur=
             "searchable": 1,
             "filterable": 1,
             "categories": [
