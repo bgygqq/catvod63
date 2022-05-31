@@ -1903,17 +1903,17 @@
         },
         {
             "name": "全能VIP",
-            "type": 1,
+            "type": 0,
             "url": "https://jx.cxk8.com?v="
         },
         {
             "name": "4433解析",
-            "type": 1,
+            "type": 0,
             "url": "https://vip.parwix.com:4433/player/?url="
         },
         {
             "name": "猪蹄解析3",
-            "type": 1,
+            "type": 0,
             "url": "https://jx.iztyy.com/Bei/?url="
         },
         {
@@ -1985,7 +1985,7 @@
         },
         {
             "name": "美剧虫",
-            "type": 1,
+            "type": 0,
             "url": "https://jx.daiguaji.com/?url=",
             "ext": {
                 "flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "搜狐", "sohu", "letv", "乐视", "bilibili", "哔哩哔哩", "哔哩", "xigua", "西瓜"]
@@ -1993,7 +1993,7 @@
         },
         {
             "name": "zui",
-            "type": 1,
+            "type": 0,
             "url": "https://jx.zui.cm/?url=",
             "ext": {
                 "flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "搜狐", "sohu", "letv", "乐视", "bilibili", "哔哩哔哩", "哔哩", "xigua", "西瓜"]
