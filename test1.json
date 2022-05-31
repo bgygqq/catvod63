@@ -1,5 +1,5 @@
 {
-    "spider": "https://raw.githubusercontents.com/aaccer/catvod/main/Spider/tangsan_spider.jar;md5;5ca3f2f07652a22a1c26bcfe67a278f6",
+    "spider": "https://raw.githubusercontents.com/aaccer/catvod/main/Spider/tangsan_spider.jar;md5;71cb51f33037505c07003f335b74a1bc",
     //"spider": "https://raw.githubusercontents.com/aaccer/catvod/main/Spider/xbiu.jar;md5;91e640a0b52dd992f6ded0388f5acec2",
     "lives": [{
         "group": "redirect",
