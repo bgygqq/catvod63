@@ -178,7 +178,37 @@
             "filterable": 1,
             "ext": "https://raw.githubusercontents.com/aaccer/catvod/main/xpath/jubaibai.json"
         },
-        {
+{ //列子，自己找Api
+      "key": "300看世界",
+      "name": "300看世界(v2)",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://300ys.xyz/mogai_api.php/v1.vod"
+    },
+    { //列子，自己找Api
+      "key": "钟特影视",
+      "name": "钟特影视(v2)",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://app.zteys.com/api.php/v1.vod"
+    },
+    { //列子，自己找Api
+      "key": "美剧虫",
+      "name": "美剧虫(v1)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://meijuchong.com/api.php/v1.vod"
+    },
+            {
             "key": "凌晨影视",
             "name": "凌晨影视(v2)",
             "type": 3,
@@ -748,16 +778,6 @@
             "filterable": 1,
             "ext": "http://aliyun.k8aa.com/mogai_api.php/v1.vod"
         },
-{ 
-"key": "美剧虫", 
-"name": "美剧虫(v1)",
- "type": 3,
-  "api": "csp_AppYs",
-   "searchable": 1, 
-   "quickSearch": 1, 
-   "filterable": 1, 
-   "ext": "https://meijuchong.com/api.php/v1.vod"
-    },
         {
             "key": "奈非迷",
             "name": "奈非迷(v2)",
