@@ -118,26 +118,6 @@
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/aaccer/catvod/main/xbiubiu/555.json"
         },
         {
-            "key": "789看片",
-            "name": "789看片(XP)",
-            "type": 3,
-            "api": "csp_XPathRec",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/aaccer/catvod/main/xpath/789ba.json"
-        },
-        {
-            "key": "Gimy",
-            "name": "Gimy(XP)",
-            "type": 3,
-            "api": "csp_XPathMacFilter",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/aaccer/catvod/main/xpath/Gimy.json"
-        },
-        {
             "key": "Age动漫",
             "name": "Age动漫(XP)",
             "type": 3,
