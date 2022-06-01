@@ -11,6 +11,7 @@
         "ext": {
             "header": {
                     "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"
+        }
             },
             "key": "搬运工资源",
             "name": "搬运工资源",
@@ -19,7 +20,6 @@
             "playUrl": "",
             "searchable": 1,
             "filterable": 1
-        }
             }, {
                 "key": "push_agent",
                 "name": "推送",
