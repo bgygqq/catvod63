@@ -9,7 +9,7 @@
             "type": 3,
             "key": "77_spider",
             "searchable": 1
-    }.
+    },
             {
             "key": "push_agent",
             "name": "推送",
