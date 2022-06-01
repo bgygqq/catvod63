@@ -50,6 +50,15 @@
             "filterable": 1
         },
         {
+            "key": "360",
+            "name": "360",
+            "type": 3,
+            "api": "csp_SP360",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "csp_biubiu_ysgc",
             "name": "影视工厂(XB)",
             "type": 3,
@@ -128,6 +137,36 @@
         //       "filterable": 1,
         //       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/aaccer/catvod/main/xpath/555.json"
         //  },
+        {
+            "key": "789看片",
+            "name": "789看片(XP)",
+            "type": 3,
+            "api": "csp_XPathRec",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/aaccer/catvod/main/xbiubiu/789ba.json"
+        },
+        {
+            "key": "Gimy",
+            "name": "Gimy(XP)",
+            "type": 3,
+            "api": "csp_XPathMacFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/aaccer/catvod/main/xbiubiu/Gimy.json"
+        },
+        {
+            "key": "Age动漫",
+            "name": "Age动漫(XP)",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/aaccer/catvod/main/xbiubiu/agefans.json"
+        },
         {
             "key": "csp_xpath_tiantian",
             "name": "天天影视(XP)",
