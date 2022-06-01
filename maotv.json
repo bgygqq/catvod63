@@ -1922,17 +1922,17 @@
         },
         {
             "name": "全能VIP",
-            "type": 0,
+            "type": 1,
             "url": "https://jx.cxk8.com?v="
         },
         {
             "name": "4433解析",
-            "type": 0,
+            "type": 1,
             "url": "https://vip.parwix.com:4433/player/?url="
         },
         {
             "name": "猪蹄解析3",
-            "type": 0,
+            "type": 1,
             "url": "https://jx.iztyy.com/Bei/?url="
         },
         {
