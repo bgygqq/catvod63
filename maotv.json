@@ -1,5 +1,5 @@
 {
-    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/aaccer/catvod/main/Spider/tangsan_spider.jar;md5;71cb51f33037505c07003f335b74a1bc",
+    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/aaccer/catvod/main/Spider/tangsan_spider.jar;md5;fab2cbab0dcc22ca00ea5f654645a214",
     "lives": [{
         "group": "redirect",
         "channels": [{
@@ -45,6 +45,15 @@
             "name": "LiteApple",
             "type": 3,
             "api": "csp_LiteApple",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "奈落影院",
+            "name": "奈落影院",
+            "type": 3,
+            "api": "csp_Newfii",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
