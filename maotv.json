@@ -1,12 +1,12 @@
 {
-    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/aaccer/catvod/main/Spider/tangsan_spider.jar;md5;fab2cbab0dcc22ca00ea5f654645a214",
+    "spider": "https://aaccer.github.io/Spider/tangsan_spider.jar;md5;fab2cbab0dcc22ca00ea5f654645a214",
     "lives": [{
         "group": "redirect",
         "channels": [{
             "name": "redirect",
             //上海电信组播IPTV
             "urls": [
-                "https://ghproxy.com/https://raw.githubusercontent.com/aaccer/catvod/main/ShanghaiLive/maolive.json"
+                "https://aaccer.github.io/ShanghaiLive/maolive.json"
             ]
         }]
     }],
@@ -28,7 +28,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/aaccer/catvod/main/xpath/cokemv.json"
+            "ext": "https://aaccer.github.io/xpath/cokemv.json"
         },
         {
             "key": "csp_xpath_libv",
@@ -38,7 +38,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/aaccer/catvod/main/xpath/libv.json"
+            "ext": "https://aaccer.github.io/xpath/libv.json"
         },
         {
             "key": "LiteApple",
@@ -75,7 +75,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/aaccer/catvod/main/xbiubiu/ysgc.json"
+            "ext": "https://aaccer.github.io/xbiubiu/ysgc.json"
         },
         {
             "key": "csp_biubiu_lezhu",
@@ -85,7 +85,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/aaccer/catvod/main/xbiubiu/lezhutv.json"
+            "ext": "https://aaccer.github.io/xbiubiu/lezhutv.json"
         },
         {
             "key": "csp_xpath_lezhutv",
@@ -95,7 +95,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/aaccer/catvod/main/xpath/lezhutv.json"
+            "ext": "https://aaccer.github.io/xpath/lezhutv.json"
         },
         {
             "key": "csp_xpath_saohuotv",
@@ -105,7 +105,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/aaccer/catvod/main/xpath/saohuo.json"
+            "ext": "https://aaccer.github.io/xpath/saohuo.json"
         },
         {
             "key": "在线之家",
@@ -124,7 +124,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/aaccer/catvod/main/xbiubiu/555.json"
+            "ext": "https://aaccer.github.io/xbiubiu/555.json"
         },
         {
             "key": "Age动漫",
@@ -134,7 +134,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/aaccer/catvod/main/xpath/agefans.json"
+            "ext": "https://aaccer.github.io/xpath/agefans.json"
         },
         {
             "key": "csp_xpath_tiantian",
@@ -144,7 +144,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/aaccer/catvod/main/xpath/tiantianyingshi.json"
+            "ext": "https://aaccer.github.io/xpath/tiantianyingshi.json"
         },
         {
             "key": "csp_xpath_auete",
@@ -154,7 +154,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/aaccer/catvod/main/xpath/auete.json"
+            "ext": "https://aaccer.github.io/xpath/auete.json"
         },
         {
             "key": "csp_xpath_348dy",
@@ -164,7 +164,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/aaccer/catvod/main/xpath/348dianying.json"
+            "ext": "https://aaccer.github.io/xpath/348dianying.json"
         },
         {
             "key": "csp_xpath_dadagui",
@@ -174,7 +174,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/aaccer/catvod/main/xpath/dadagui.json"
+            "ext": "https://aaccer.github.io/xpath/dadagui.json"
         },
         {
             "key": "csp_xpath_jubaibai",
@@ -184,7 +184,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/aaccer/catvod/main/xpath/jubaibai.json"
+            "ext": "https://aaccer.github.io/xpath/jubaibai.json"
         },
         {
             "key": "300看世界",
