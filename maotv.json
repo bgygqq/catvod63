@@ -1828,7 +1828,7 @@
             }
         },
         {
-            "name": "解析1",
+            "name": "chaloli解析",
             "type": 1,
             "url": "http://chaloli.cn/home/api?type=ys&uid=705072&key=abcdegipstBCFMSVZ6&url=",
             "ext": {
@@ -1850,29 +1850,7 @@
             }
         },
         {
-            "name": "解析2",
-            "type": 1,
-            "url": "https://a.dxzj88.com/jxrrm/jiami.php?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩",
-                    "letv",
-                    "乐视",
-                    "sohu"
-                ]
-            }
-        },
-        {
-            "name": "解析3",
+            "name": "5lp解析",
             "type": 1,
             "url": "https://json.5lp.net/json.php?url=",
             "ext": {
