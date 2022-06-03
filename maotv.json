@@ -1692,30 +1692,6 @@
             ]
         },
         {
-            "key": "TVB云播",
-            "name": "TVB云播",
-            "type": 1,
-            "api": "http://www.tvyb02.com/api.php/provide/vod/",
-            "playUrl": "",
-            "searchable": 1,
-            "filterable": 1,
-            "categories": [
-
-            ]
-        },
-        {
-            "key": "测试",
-            "name": "测试",
-            "type": 1,
-            "api": "http://107.150.5.146:39000/maccms10-main/api.php/provide/vod/",
-            "playUrl": "",
-            "searchable": 1,
-            "filterable": 1,
-            "categories": [
-
-            ]
-        },
-        {
             "key": "789",
             "name": "789盘",
             "type": 1,
