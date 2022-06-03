@@ -125,6 +125,15 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://aaccer.github.io/xbiubiu/555.json"
+        }, ​         {​            ​
+            "key"​:  ​ "​csp_appysv2_VIP影院​"​,
+            ​            ​"name"​:  ​ "​VIP影院(海)​"​,
+            ​            ​"type"​:  ​3​,
+            ​            ​"api"​:  ​ "​csp_AppYsV2​"​,
+            ​            ​"searchable"​:  ​1​,
+            ​            ​"quickSearch"​:  ​1​,
+            ​            ​"filterable"​:  ​1​,
+            ​            ​"ext"​:  ​ "​http://360yy.cn/api.php/app/​"​        
         },
         {
             "key": "Age动漫",
@@ -204,16 +213,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://300ys.xyz/mogai_api.php/v1.vod"
-        },
-        {
-            "key": "钟特影视",
-            "name": "钟特影视(v2)",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://app.zteys.com/api.php/v1.vod"
         },
         {
             "key": "美剧虫",
